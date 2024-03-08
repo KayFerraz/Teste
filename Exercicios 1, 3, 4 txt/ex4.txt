@@ -1,0 +1,18 @@
+Primeira visita à sala:
+
+Ligue o primeiro interruptor e aguarde alguns minutos.
+Desligue o primeiro interruptor e ligue o segundo interruptor.
+Entre na sala.
+Agora, há três possibilidades:
+
+Se a lâmpada estiver acesa, o segundo interruptor controla essa lâmpada.
+Se a lâmpada estiver apagada e a lâmpada ainda estiver quente, o primeiro interruptor controla essa lâmpada.
+Se a lâmpada estiver apagada e a lâmpada estiver fria, o terceiro interruptor controla essa lâmpada.
+Segunda visita à sala:
+
+Agora, você já sabe qual interruptor controla uma das lâmpadas.
+Deixe os interruptores como estão e entre novamente na sala.
+Observe a lâmpada que está acesa:
+Se a lâmpada estiver acesa, o interruptor que você não mexeu controla essa lâmpada.
+Se a lâmpada estiver apagada, o interruptor que você mexeu por duas vezes controla essa lâmpada.
+Dessa forma, com duas visitas à sala das lâmpadas, você pode determinar qual interruptor controla cada lâmpada.
